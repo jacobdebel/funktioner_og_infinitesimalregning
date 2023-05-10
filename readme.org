@@ -1,0 +1,3 @@
+Dette er en præsentation om funktioner inkl introduktioner til differential- og integralregning.
+
+Selve præsentationen kan findes på https://jacobdebel.github.io/funktioner_og_infinitesimalregning.
