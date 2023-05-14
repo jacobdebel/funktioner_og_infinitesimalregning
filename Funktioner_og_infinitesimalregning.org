@@ -3,11 +3,11 @@
 #+author: Matematik
 #+date: Vibenshus Gymnasium
 # Themes: beige|black|blood|league|moon|night|serif|simple|sky|solarized|white
-#+reveal_theme: sky
+#+reveal_theme: black
 #+reveal_title_slide: <h2>%t</h2><h3>%s</h3><h4>%a</h4><h4>%d</h4>
 #+reveal_title_slide_background:
 #+reveal_default_slide_background:
-#+reveal_extra_options: slideNumber:"c/t",progress:true,transition:"slide",navigationMode:"default",history:false,hash:true
+#+reveal_extra_options: slideNumber:"c",progress:true,transition:"slide",navigationMode:"default",history:false,hash:true
 # #+reveal_extra_attr: style="color:red"
 #+options: toc:nil num:nil tags:nil timestamp:nil ^:{}
 
@@ -1476,7 +1476,7 @@ allowfullscreen>
 Lad os undersøge /hældningen/ for $\ln(x)$.
 - Tryk på =Tangent= og se, hvad I kan gøre.
 - Tryk på =Tangenthældning= for at få /hældningen/ til tangenten som funktion af x.
-- Tryp på =???= og se, hvad der sker.
+- Tryk på =???= og se, hvad der sker.
 #+attr_reveal: :frag (appear)
 - Arhh, hvis den /afledte funktion/ af $\ln(x)$ er lig $\frac{1}{x}$, så må /stamfunktionen/ til $\frac{1}{x}$ være lig $\ln(x)$.
 - Altså:
