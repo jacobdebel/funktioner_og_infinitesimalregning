@@ -1,7 +1,7 @@
 #+title: Funktioner og infinitesimalregning
 #+subtitle: 
 #+author: Matematik
-#+date: Vibenshus Gymnasium
+#+date: Jacob Debel
 # Themes: beige|black|blood|league|moon|night|serif|simple|sky|solarized|white
 #+reveal_theme: black
 #+reveal_title_slide: <h2>%t</h2><h3>%s</h3><h4>%a</h4><h4>%d</h4>
