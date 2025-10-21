@@ -250,7 +250,7 @@ Det hele omhandler *hældninger*!
 #+reveal_html: <div class="column" style="float:left; width: 50%">
 - I ét punkt på en graf, har grafen samme hældning som /tangenten/.
 - Hældningen ændrer sig som funktion af x.
-- Men, hvordan ændrer hældningen sig funktion af x?
+- Men, hvordan ændrer hældningen sig som funktion af x?
 #+reveal_html: </div>
 
 #+reveal_html: <div class="column" style="float:right; width: 50%">
